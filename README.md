@@ -4,6 +4,6 @@ I'm Sedanur Akçil, a passionate developer with a focus on React, React Native. 
 
 ## 🚀 About me
 
-- 🔭 I’m currently working at Artlax as Software Developer
+- 🔭 I’m currently working at Artelax as Software Developer
 - 🌱 I’m currently learning React and Next.js
 
